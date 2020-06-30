@@ -4,6 +4,7 @@ body{
 }
 section{
     height: 500px;
+    padding-bottom: 150px;
 }
 .top-banner{
     background-image: url("images/top-banner.png");
@@ -69,3 +70,4 @@ footer p{
     text-align: center;
     font-size: 12px;
 }
+
